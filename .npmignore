@@ -1,4 +1,3 @@
-## Only here for local usage (thanks vscode)
 *.log
 .DS_Store
 node_modules
